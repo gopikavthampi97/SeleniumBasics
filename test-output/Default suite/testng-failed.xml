@@ -5,8 +5,8 @@
     <classes>
       <class name="seleniumBasicCommands.SeleniumCommands">
         <methods>
+          <include name="verifyvaluesInDropDown"/>
           <include name="tearDown"/>
-          <include name="TC_014_verifyWebElementCommands"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- seleniumBasicCommands.SeleniumCommands -->
